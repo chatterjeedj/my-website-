@@ -4,6 +4,7 @@ This is a really awesome website.
 
 This is also a cool website
 
-Updates on the master branch of GITHUB before Rebase
-
-Update on the 'just-a-demo' branch done directly on GITHUB. 
+These changes are conflicting changes to 
+the changes that we have on GITHUB since 
+the changes are on the same line of the 
+same file. 
